@@ -17,7 +17,7 @@ paint a broader picture.
 
 <br />
 
-While you're here, why don't you have a reluctant and reserved look at the sites
+While you're here, why not take a reluctant and reserved look at the sites
 of some of my peers? I guarantee a thrilling, if not existential, experience:
 
   * [Philip](http://www.maths.tcd.ie/~clarkeph/)
