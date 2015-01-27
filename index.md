@@ -1,5 +1,5 @@
 ---
-title: Hi!
+title: Hello, World!
 ---
 
 I'm Basil L. Contovounesios, an undergraduate computer science student in
@@ -17,8 +17,8 @@ paint a broader picture.
 
 <br />
 
-While you're here, why don't you have a reluctant and reserved look at some of
-my peers' sites? I guarantee a thrilling, if not existential, experience:
+While you're here, why don't you have a reluctant and reserved look at the sites
+of some of my peers? I guarantee a thrilling, if not existential, experience:
 
   * [Philip](http://www.maths.tcd.ie/~clarkeph/)
   * [Se&#x00E1;n](http://seanlth.com)
@@ -28,8 +28,6 @@ my peers' sites? I guarantee a thrilling, if not existential, experience:
 <br />
 
 ***
-
-<br />
 
 *Please excuse the lacking and distasteful nature of this site---it's under
  construction (indefinitely).*
