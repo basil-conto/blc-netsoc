@@ -20,8 +20,9 @@ paint a broader picture.
 While you're here, why don't you have a reluctant and reserved look at some of
 my peers' sites? I guarantee a thrilling, if not existential, experience:
 
-  * [seanlth.com](http://seanlth.com)
-  * [samcaulfield.com](http://samcaulfield.com)
+  * [Philip](http://www.maths.tcd.ie/~clarkeph/)
+  * [Se&#x00E1;n](http://seanlth.com)
+  * [Sam](http://samcaulfield.com)
   * *...I promise I have more peers...*
 
 <br />

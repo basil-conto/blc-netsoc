@@ -1,0 +1,9 @@
+
+# Hakyll cache
+_cache/
+
+# Hakyll build
+site
+site.hi
+site.o
+
