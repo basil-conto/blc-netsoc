@@ -1,4 +1,3 @@
-
 # Hakyll cache
 _cache/
 
@@ -6,4 +5,3 @@ _cache/
 site
 site.hi
 site.o
-

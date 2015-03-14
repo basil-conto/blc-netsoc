@@ -8,8 +8,7 @@ Trinity College Dublin.
 In case you're interested, I'm currently pursuing a nascent passion for all
 things Haskell (see footer).
 
-My [CV](CV-Contovounesios-Basil.pdf) and recent [reading](reading.html)
-paint a broader picture.
+My [CV](cv-blc.pdf) and recent [reading](reading.html) paint a broader picture.
 
 <br />
 

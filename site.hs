@@ -29,8 +29,8 @@ main = hakyll $ do
     compile copyFileCompiler
 
   -- CV
-  match "CV-Contovounesios-Basil.pdf" $ do
-    route $ constRoute "CV-Contovounesios-Basil.pdf"
+  match "cv-blc.pdf" $ do
+    route $ constRoute "cv-blc.pdf"
     compile copyFileCompiler
 
   -- Index
